@@ -7,6 +7,8 @@ Not a guide to pirating all types of media.
 * [What should you actually use?](https://github.com/HadesButGithub/not-a-piracy-guide#what-should-you-actually-use)
 * [Cost Tiers](https://github.com/HadesButGithub/not-a-piracy-guide#cost-tiers)
 * ["What the f\*ck is a torrent?" and Other Questions You May Have](https://github.com/HadesButGithub/not-a-piracy-guide#what-the-fck-is-a-torrent-and-other-questions-you-may-have)
+* I'm an iPhone User, What Should I Do?
+* Use These Browser Extensions
 * [VPNs](https://github.com/HadesButGithub/not-a-piracy-guide#vpns)
 * [DDL Clients](https://github.com/HadesButGithub/not-a-piracy-guide#ddl-clients)
 * [Torrent Clients](https://github.com/HadesButGithub/not-a-piracy-guide#torrent-clients)
@@ -67,7 +69,18 @@ If you're using DDL or Real-Debrid, you usually don't need to worry about a VPN.
 
 > What is Real-Debrid?
 
-See Real-Debrid.
+See [Real-Debrid](https://github.com/HadesButGithub/not-a-piracy-guide#real-debrid).
+
+## I'm an iPhone User, What Should I Do?
+Piracy on iPhone is a lot more difficult than on desktop platforms or on Android. iOS apps will be provided when possible, and streaming sites will always work.
+
+## Use These Browser Extensions
+You should use these. All links provided direct to the Firefox addon store because Firefox is just better. Don't have Firefox? [Download it.](https://www.mozilla.org/en-US/firefox/new/)
+
+* **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** - Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory. ***You should seriously install this.*** (use Firefox Focus or Brave on iOS for adblocking capabilities)
+* **[SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)** - Easily skip YouTube video sponsors.
+* **[Return YouTube Dislikes](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes)** - Returns ability to see dislike statistics on youtube
+* **[Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/)** - Bypass Paywalls of news sites
 
 ## VPNs
 I'll preface this by saying that you should *never, ever* use a free VPN while torrenting. ***EVER.*** They will not protect you in any way. You must have a reputable, paid VPN (with one exception). Ideally, something from this list.

@@ -108,3 +108,19 @@ While both used to be staples of torrenting, they now include ads and unwanted s
 * **[Transmission](https://transmissionbt.com/)** - A Fast, Easy and Free Bittorrent Client for macOS, Windows and Linux 
 * **[LibreTorrent (android)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent&hl=en_AU&gl=US)** - Free and Open Source, full-featured torrent client for Android.
 
+## Real-Debrid
+Real-Debrid combines the best of torrents and DDLs. Real-Debrid has a massive cache of torrents from it's huge user base and scrapes premium torrents. When using Real-Debrid, you don't need to worry about a VPN, and it's much less likely you'll run into malicious software. Real-Debrid is also much faster than using torrents or DDL in most cases, and can usually max out your internet connection (if you have a 100Mbp plan, you'll be downloading at 100Mbp).
+
+Once Real-Debrid is connected to an app like Stremio (covered later), you'll have a fantastic streaming experience with no ads, extremely fast streams, and high quality video. You can also use Real-Debrid to convert torrent links into DDL links.
+
+This all sounds great, but it does come at a cost. You can pay for 15 days, 30 days, 90 days, or 180 days for €3, €4, €9, or €16 respectively. 
+
+### Sign-up guide
+1. Head to the [Real-Debrid website](https://real-debrid.com/?id=8559338) (clicking that link uses my affiliate code to give me 5 days of service. a non-affiliate link is available [here](https://real-debrid.com))
+2. Click 'Sign-up' in the top right corner.
+3. Fill out the sign-up form and click 'Sign-up'
+4. Once at your logged in page, click 'Premium Offers'
+5. Click 'Subscribe' on one of the tiers and check the box
+6. Choose your payment method, enter your details, and enjoy!
+
+I personally used Amazon Pay when paying, as it's the closest thing to PayPal. I personally wouldn't give my debit card directly to Real-Debrid.

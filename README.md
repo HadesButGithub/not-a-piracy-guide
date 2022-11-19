@@ -42,4 +42,4 @@ When downloading pirated media, a torrent is the most common download type you'l
 
 In most cases, files downloaded or streamed from the internet are downloaded from one central server. When you stream from Netflix, you stream from Netflix's server. When you download a game from Steam, you download from Steam's server. Obviously, bigger companies will have hundreds or even thousands of servers around the globe for the fastest download performance, but that's the gist of it.
 
-![Diagram showing DDL process](https://dropover.cloud/0660d1)
+![Diagram showing DDL process](SCR-20221119-txf.png)

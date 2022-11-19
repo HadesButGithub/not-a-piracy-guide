@@ -10,7 +10,7 @@ Not a guide to pirating all types of media.
 * [VPNs](https://github.com/HadesButGithub/not-a-piracy-guide#vpns)
 * [DDL Clients](https://github.com/HadesButGithub/not-a-piracy-guide#ddl-clients)
 * [Torrent Clients](https://github.com/HadesButGithub/not-a-piracy-guide#torrent-clients)
-* Real-Debrid
+* [Real-Debrid](https://github.com/HadesButGithub/not-a-piracy-guide#real-debrid)
 * Movies and TV
 * Anime
 * Music _coming soon_

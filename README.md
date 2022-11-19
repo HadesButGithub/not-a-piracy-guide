@@ -19,7 +19,7 @@ Not a guide to pirating all types of media.
 ## Introduction
 For those coming from my shared Jellyfin, this was mainly made for you to help you achieve the best experience while watching movies and TV shows 100% legally after the shutdown. For everyone else, this is _not_ a piracy guide and will not assist you in breaking all sorts of copyright law to download free media like movies, TV, music, games, and anime. 
 
-Sarcasm aside, this is my quick, simple guide to pirating media with ease and convenience. With tiers for those willing to spend a bit, a lot, or nothing at all, you're guaranteed to leave this Github page with some free sh\*t.
+Sarcasm aside, this is my quick, simple guide to pirating media with ease and convenience. With cost tiers for those willing to spend a bit, a lot, or nothing at all, you're guaranteed to leave this Github page with some pirated media.
 
 ## Disclaimer
 While I've done my best to vet all of these sites to ensure they don't contain malware or other malicious things, things may slip through the gaps, and I take ***absolutely ZERO responsibility*** for any damage done to your system by accessing **any** of the sites in this list (even for those marked as my personal recommendation). Multiple incidents have occured where previously reputable sites have turned rogue and began distributing malware. It also may occur that user error is a factor in causing issues.

@@ -47,3 +47,19 @@ In most cases, files downloaded or streamed from the internet are downloaded fro
 ^^ That diagram is a serious oversimplification, but that's all it is. In the case of services like Netflix or Disney+, this is the best solution from a user and sys-admin perspective for a variety of reasons. When you're sailing the seven seas, Direct Download (DDL) unfortunately makes files much more likely to be taken down.
 
 This is where torrents come in. Torrents completely remove the need for a central server by making _you_ (and everyone else downloading the file) the server. When you open a .torrent file or a magnet link in your torrent client, you begin downloading the file from everyone else downloading the file. Plus, when someone else starts downloading the file, you'll start uploading the file as well, even if you haven't finished the download yet. When you start uploading, you're what's known as a "seeder". Downloading without seeding is known as "leeching", and is generally frowned upon within the piracy community.
+
+![Diagram showing torrent process](SCR-20221119-ue9.png)
+
+Torrents are also practically impossible to take down. While you could take down the website providing the .torrent file that tells your torrent client where to look for the file(s), you can't take down a torrent unless everyone seeding the file stops seeding it.
+
+Torrents do bring up issues with obscure content though. If a file doesn't have many seeders, the download speed will be much slower than something with many seeders. For files like these, DDL is better.
+
+> Why do I need a VPN?
+A VPN, or Virtual Private Network, masks your IP making you more anonymous when you're on the internet. You've probably heard this phrase in a hundred different wordings from the hundreds of YouTubers sponsored by NordVPN/Surfshark/ExpressVPN/Private Internet Access/\[insert other VPN\], and this IP address masking is seriously helpful when torrenting files.
+
+Because of the peer-to-peer (P2P) nature of torrents, your IP address is leaked to every other person downloading the torrent. This would usually be fine, but big movie studios will hire companies to download these torrents (known as copyright trolls), look through all of the IP addresses, send notices to your Internet Service Provider (ISP), and make them send you threatening letters or even cut off your internet. When using a VPN, the other peers in the download will see the IP of your VPN, including the copyright trolls. If you have a good VPN for torrenting, your VPN provider will receive the copyright notice, not know who the IP belongs to, and tell the copyright troll to get f\*cked in nice legal terms.
+
+If you're using DDL or Real-Debrid, you usually don't need to worry about a VPN.
+
+> What is Real-Debrid?
+See Real-Debrid.

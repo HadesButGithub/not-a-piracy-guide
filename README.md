@@ -7,14 +7,13 @@ Not a guide to pirating all types of media.
 * [What should you actually use?](https://github.com/HadesButGithub/not-a-piracy-guide#what-should-you-actually-use)
 * [Cost Tiers](https://github.com/HadesButGithub/not-a-piracy-guide#cost-tiers)
 * ["What the f\*ck is a torrent?" and Other Questions You May Have](https://github.com/HadesButGithub/not-a-piracy-guide#what-the-fck-is-a-torrent-and-other-questions-you-may-have)
-* I'm an iPhone User, What Should I Do?
-* Use These Browser Extensions
+* [I'm an iPhone User, What Should I Do?](https://github.com/HadesButGithub/not-a-piracy-guide#im-an-iphone-user-what-should-i-do)
+* [Use These Browser Extensions](https://github.com/HadesButGithub/not-a-piracy-guide#use-these-browser-extensions)
 * [VPNs](https://github.com/HadesButGithub/not-a-piracy-guide#vpns)
 * [DDL Clients](https://github.com/HadesButGithub/not-a-piracy-guide#ddl-clients)
 * [Torrent Clients](https://github.com/HadesButGithub/not-a-piracy-guide#torrent-clients)
 * [Real-Debrid](https://github.com/HadesButGithub/not-a-piracy-guide#real-debrid)
-* Movies and TV
-* Anime
+* Movies, TV, and Anime
 * Music _coming soon_
 * Games _coming soon_
 
@@ -137,3 +136,15 @@ This all sounds great, but it does come at a cost. You can pay for 15 days, 30 d
 6. Choose your payment method, enter your details, and enjoy!
 
 I personally used Amazon Pay when paying, as it's the closest thing to PayPal. I personally wouldn't give my debit card directly to Real-Debrid.
+
+## Movies, TV, and Anime
+### Streaming
+#### No VPN Required
+* **[Soap2Day](https://soapgate.org/)** ⭐ - Probably one of the best streaming sites.
+* **[ZiniTevi](https://ziniteviapp.github.io/)** ⭐ - Streaming app for iOS (sideloaded)
+
+#### VPN Required
+* **[Stremio](https://www.stremio.com/downloads)** ⭐ - Torrent streaming app for Windows, macOS, Linux, Android/Android TV, and Steam Deck. Configure with [Torrentio](https://torrentio.strem.fun/configure)
+
+#### Real-Debrid
+* **[ZiniTevi]

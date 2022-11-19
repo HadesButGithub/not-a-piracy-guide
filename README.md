@@ -43,3 +43,5 @@ When downloading pirated media, a torrent is the most common download type you'l
 In most cases, files downloaded or streamed from the internet are downloaded from one central server. When you stream from Netflix, you stream from Netflix's server. When you download a game from Steam, you download from Steam's server. Obviously, bigger companies will have hundreds or even thousands of servers around the globe for the fastest download performance, but that's the gist of it.
 
 ![Diagram showing DDL process](SCR-20221119-txf.png)
+
+^^ That diagram is a serious oversimplification, but that's all it is. In the case of services like Netflix or Disney+, this is the best solution from a user and sys-admin perspective for a variety of reasons. When you're sailing the seven seas, Direct Download (DDL) unfortunately makes files much more likely to be taken down.

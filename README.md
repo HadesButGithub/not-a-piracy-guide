@@ -27,7 +27,7 @@ While I've done my best to vet all of these sites to ensure they don't contain m
 I also take zero responsibility for any legal issues that arise from using this guide. Issues can include, but are not limited to, DMCA letters, suspension of internet service, fines, etc.
 
 ## What should you actually use?
-There's a lot of sites and resources that will be listed here, and you might end up being overwhelmed. The website or service that I would recommend in each section and cost tier is marked with **bold text**.
+There's a lot of sites and resources that will be listed here, and you might end up being overwhelmed. The website or service that I would recommend in each section and cost tier is marked with a ⭐.
 
 ## Cost Tiers
 > But wait, I thought the point of pirating my media was so that it would be free?
@@ -55,6 +55,8 @@ Torrents are also practically impossible to take down. While you could take down
 
 Torrents do bring up issues with obscure content though. If a file doesn't have many seeders, the download speed will be much slower than something with many seeders. For files like these, DDL is better.
 
+*To clarify, torrenting as a download method is not illegal, just like using Chrome to DDL is not illegal.*
+
 > Why do I need a VPN?
 
 A VPN, or Virtual Private Network, masks your IP making you more anonymous when you're on the internet. You've probably heard this phrase in a hundred different wordings from the hundreds of YouTubers sponsored by NordVPN/Surfshark/ExpressVPN/Private Internet Access/\[insert other VPN\], and this IP address masking is seriously helpful when torrenting files.
@@ -64,4 +66,45 @@ Because of the peer-to-peer (P2P) nature of torrents, your IP address is leaked 
 If you're using DDL or Real-Debrid, you usually don't need to worry about a VPN.
 
 > What is Real-Debrid?
+
 See Real-Debrid.
+
+## VPNs
+I'll preface this by saying that you should *never, ever* use a free VPN while torrenting. ***EVER.*** They will not protect you in any way. You must have a reputable, paid VPN (with one exception). Ideally, something from this list.
+
+### Paid (***highly recommended***)
+* **[Mullvad VPN](https://mullvad.net/en/)** ⭐ - Mullvad is a VPN service that helps keep your online activity, identity, and location private. Doesn't require *any* personal information to sign-up (no email, phone, or username), and you can use crypto, cheques, and even cash to remain as anonymous as possible, along with more standard payment methods. (€5/month, billed monthly)
+* **[Windscribe VPN](https://windscribe.com)** - Windscribe helps you mask your physical location, circumvent censorship, and block ads and trackers on websites you use every day. I would suggest using [Build a Plan](https://windscribe.com/upgrade) to get unlimited bandwidth and your countries pro servers for $2USD a month (billed monthly). ($9USD/month billed monthly for Pro, with discounts available for paying in yearly plans)
+* **[ProtonVPN](https://protonvpn.com/)** - High-speed Swiss VPN that safeguards your privacy. ***Free plan does not support torrenting.*** ($10USD/month billed monthly, with discounts available for paying in 1 or 2 year plans)
+
+### Free
+* **Windscribe VPN (again)** ⭐ - Windscribe also has a free plan with 10GB of monthly bandwidth. This is the only option I would recommend for free torrenting, but only for smaller files.
+
+Most of these providers have guides for safely torrenting over a VPN:
+* Windscribe: https://windscribe.com/support/article/21/using-windscribe-with-torrent-clients
+* Mullvad: https://web.archive.org/web/20200125180636/https://mullvad.net/en/help/bittorrent/
+* ProtonVPN: https://protonvpn.com/support/bittorrent-vpn/
+
+Wherever possible, you should be binding your torrent client to the VPN. You should also perform an IP leak check through [IPLeak](https://ipleak.net). You can find a guide on how to do this [here](https://www.reddit.com/r/VPNTorrents/comments/7saz0b/how_to_make_sure_your_ip_doesnt_leak_when_you/). After checking that the IP shown in the browser after enabling torrent leak detection matches with the IP shown in the VPN client, you should be 99.99% safe.
+
+## DDL Clients
+Downloading large files in your browser can be a hassle, so you can use one of these to make it better.
+
+### Free
+* **[JDownloader 2](https://jdownloader.org/)** ⭐ - JDownloader is a free, open-source download management tool with a huge community that makes downloading as easy and fast as it should be. ***CONTAINS BUNDLED ADWARE IN INSTALLER, PLEASE BE AWARE WHEN INSTALLING (software is otherwise safe)***
+* **[Free Download Manager](https://www.freedownloadmanager.org/)** - A powerful modern download accelerator and organizer for Windows, macOS, Android, and Linux. 
+
+### Paid
+* **[Internet Download Manager](https://www.internetdownloadmanager.com/)** ⭐ - Internet Download Manager (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads. ***DO NOT PAY FOR THIS SOFTWARE!*** it's insanely easy to reset the free trial with [this app](https://github.com/J2TEAM/idm-trial-reset).
+
+## Torrent Clients
+### ***AVOID AT ALL COSTS***
+* uTorrent & uTorrent Web
+* BitTorrent (client, not the protocol)
+While both used to be staples of torrenting, they now include ads and unwanted software, and used to bundle [crypto miners](https://www.infoworld.com/article/2893808/utorrent-installs-cryptocurrency-miner-on-user-computers.html) and [malware](https://www.reddit.com/r/torrents/comments/1kfmwa/utorrent_now_comes_bundled_with_malware_called/).
+
+### Free (don't pay for a torrent client)
+* **[qBittorrent](https://www.qbittorrent.org/)** ⭐⭐⭐⭐⭐ - literally the best torrent client ever created
+* **[Transmission](https://transmissionbt.com/)** - A Fast, Easy and Free Bittorrent Client for macOS, Windows and Linux 
+* **[LibreTorrent (android)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent&hl=en_AU&gl=US)** - Free and Open Source, full-featured torrent client for Android.
+

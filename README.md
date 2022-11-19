@@ -38,6 +38,7 @@ Don't worry, all sections will have a free tier. However, you get what you pay f
 Piracy introduces a lot of new standards, technologies, and other things that don't exist or are completely hidden to the user on legal services. This introduces a swarm of new questions that I'll do my best to answer.
 
 > What the f\*ck is a torrent?
+
 When downloading pirated media, a torrent is the most common download type you'll find, and basically every site will have them available. To explain what they are, I'll need to explain Direct Download as well.
 
 In most cases, files downloaded or streamed from the internet are downloaded from one central server. When you stream from Netflix, you stream from Netflix's server. When you download a game from Steam, you download from Steam's server. Obviously, bigger companies will have hundreds or even thousands of servers around the globe for the fastest download performance, but that's the gist of it.
@@ -55,6 +56,7 @@ Torrents are also practically impossible to take down. While you could take down
 Torrents do bring up issues with obscure content though. If a file doesn't have many seeders, the download speed will be much slower than something with many seeders. For files like these, DDL is better.
 
 > Why do I need a VPN?
+
 A VPN, or Virtual Private Network, masks your IP making you more anonymous when you're on the internet. You've probably heard this phrase in a hundred different wordings from the hundreds of YouTubers sponsored by NordVPN/Surfshark/ExpressVPN/Private Internet Access/\[insert other VPN\], and this IP address masking is seriously helpful when torrenting files.
 
 Because of the peer-to-peer (P2P) nature of torrents, your IP address is leaked to every other person downloading the torrent. This would usually be fine, but big movie studios will hire companies to download these torrents (known as copyright trolls), look through all of the IP addresses, send notices to your Internet Service Provider (ISP), and make them send you threatening letters or even cut off your internet. When using a VPN, the other peers in the download will see the IP of your VPN, including the copyright trolls. If you have a good VPN for torrenting, your VPN provider will receive the copyright notice, not know who the IP belongs to, and tell the copyright troll to get f\*cked in nice legal terms.

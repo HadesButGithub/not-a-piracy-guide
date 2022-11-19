@@ -2,14 +2,14 @@
 Not a guide to pirating all types of media.
 
 ## Table of Contents
-* Introduction
-* Disclaimer
-* What should you actually use?
-* Cost Tiers
-* "What the f\*ck is a torrent?" and Other Questions You May Have
-* VPNs
-* DDL Clients
-* Torrent Clients
+* [Introduction](https://github.com/HadesButGithub/not-a-piracy-guide#introduction)
+* [Disclaimer](https://github.com/HadesButGithub/not-a-piracy-guide#disclaimer)
+* [What should you actually use?](https://github.com/HadesButGithub/not-a-piracy-guide#what-should-you-actually-use)
+* [Cost Tiers](https://github.com/HadesButGithub/not-a-piracy-guide#cost-tiers)
+* ["What the f\*ck is a torrent?" and Other Questions You May Have](https://github.com/HadesButGithub/not-a-piracy-guide#what-the-fck-is-a-torrent-and-other-questions-you-may-have)
+* [VPNs](https://github.com/HadesButGithub/not-a-piracy-guide#vpns)
+* [DDL Clients](https://github.com/HadesButGithub/not-a-piracy-guide#ddl-clients)
+* [Torrent Clients](https://github.com/HadesButGithub/not-a-piracy-guide#torrent-clients)
 * Real-Debrid
 * Movies and TV
 * Anime

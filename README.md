@@ -45,3 +45,5 @@ In most cases, files downloaded or streamed from the internet are downloaded fro
 ![Diagram showing DDL process](SCR-20221119-txf.png)
 
 ^^ That diagram is a serious oversimplification, but that's all it is. In the case of services like Netflix or Disney+, this is the best solution from a user and sys-admin perspective for a variety of reasons. When you're sailing the seven seas, Direct Download (DDL) unfortunately makes files much more likely to be taken down.
+
+This is where torrents come in. Torrents completely remove the need for a central server by making _you_ (and everyone else downloading the file) the server. When you open a .torrent file or a magnet link in your torrent client, you begin downloading the file from everyone else downloading the file. Plus, when someone else starts downloading the file, you'll start uploading the file as well. When you start uploading, you're what's known as a "seeder". Downloading without seeding is known as "leeching", and is generally frowned upon within the piracy community.

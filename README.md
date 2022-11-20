@@ -5,8 +5,9 @@ Not a guide to pirating all types of media.
 * [Introduction](https://github.com/HadesButGithub/not-a-piracy-guide#introduction)
 * [Disclaimer](https://github.com/HadesButGithub/not-a-piracy-guide#disclaimer)
 * [What should you actually use?](https://github.com/HadesButGithub/not-a-piracy-guide#what-should-you-actually-use)
-* [Cost Tiers](https://github.com/HadesButGithub/not-a-piracy-guide#cost-tiers)
+* [Tiers](https://github.com/HadesButGithub/not-a-piracy-guide#tiers)
 * ["What the f\*ck is a torrent?" and Other Questions You May Have](https://github.com/HadesButGithub/not-a-piracy-guide#what-the-fck-is-a-torrent-and-other-questions-you-may-have)
+  * ["What the f\*ck is a torrent?"](
 * [I'm an iPhone User, What Should I Do?](https://github.com/HadesButGithub/not-a-piracy-guide#im-an-iphone-user-what-should-i-do)
 * [Use These Browser Extensions](https://github.com/HadesButGithub/not-a-piracy-guide#use-these-browser-extensions)
 * [VPNs](https://github.com/HadesButGithub/not-a-piracy-guide#vpns)
@@ -30,15 +31,36 @@ I also take zero responsibility for any legal issues that arise from using this 
 ## What should you actually use?
 There's a lot of sites and resources that will be listed here, and you might end up being overwhelmed. The website or service that I would recommend in each section and cost tier is marked with a ⭐.
 
-## Cost Tiers
-> But wait, I thought the point of pirating my media was so that it would be free?
+## Tiers
+Each section will be tiered based on a variety of factors that may change depending on the subject. These factors mainly relate to time and money.
 
-Don't worry, all sections will have a free tier. However, you get what you pay for, and paying for services like Real-Debrid or a VPN (both of which I'll talk about in more detail later) can improve your experience tenfold. The majority of free services listed will have slower speeds, lower resolution content, more ads, and an overall worse experience compared to paid services. Again, you get what you pay for.
+### Required Services
+* Requires Real-Debrid - The app or website requires a Real-Debrid subscription to function.
+* Requires VPN - The app or website requires a paid VPN to avoid copyright notices (which you'll want to do).
+* No Strings Attached - The app or website doesn't require any other services to function, although a VPN is always recommended.
+
+### Cost
+* Subscription  - The app or site requires a monthly, yearly, or other subscription.
+* One-Time - The app or site requires a one-time payment.
+* Free - The app or site does not require payment.
+
+### Time
+* Weekend Project - Will take hours or days to setup
+* "Yeah, I've got time." - Will take under an hour to setup
+* Slightly Annoying - Will take under 30 minutes to setup
+* Instant (as in noodles) - Will take less than 5 minutes to setup
+* Actually Instant - Less than 30 seconds to setup
+
+### Commitment
+* Lifetime Commitment - Will require high maintenance very often
+* Commited - Will require some maintenance occassionally
+* Morning Routine - Could easily fit into a morning routine, will require little maintenance occassionally
+* None - No commitment whatsoever, one time setup process
 
 ## "What the f\*ck is a torrent?" and Other Questions You May Have
 Piracy introduces a lot of new standards, technologies, and other things that don't exist or are completely hidden to the user on legal services. This introduces a swarm of new questions that I'll do my best to answer.
 
-> What the f\*ck is a torrent?
+### > What the f\*ck is a torrent?
 
 When downloading pirated media, a torrent is the most common download type you'll find, and basically every site will have them available. To explain what they are, I'll need to explain Direct Download as well.
 
@@ -58,7 +80,7 @@ Torrents do bring up issues with obscure content though. If a file doesn't have 
 
 *To clarify, torrenting as a download method is not illegal, just like using Chrome to DDL is not illegal.*
 
-> Why do I need a VPN?
+### > Why do I need a VPN?
 
 A VPN, or Virtual Private Network, masks your IP making you more anonymous when you're on the internet. You've probably heard this phrase in a hundred different wordings from the hundreds of YouTubers sponsored by NordVPN/Surfshark/ExpressVPN/Private Internet Access/\[insert other VPN\], and this IP address masking is seriously helpful when torrenting files.
 
@@ -66,7 +88,7 @@ Because of the peer-to-peer (P2P) nature of torrents, your IP address is leaked 
 
 If you're using DDL or Real-Debrid, you usually don't need to worry about a VPN.
 
-> What is Real-Debrid?
+### > What is Real-Debrid?
 
 See [Real-Debrid](https://github.com/HadesButGithub/not-a-piracy-guide#real-debrid).
 

@@ -19,8 +19,8 @@ Not a guide to pirating all types of media.
  * [Free](https://github.com/HadesButGithub/not-a-piracy-guide#free-1)
  * [Paid](https://github.com/HadesButGithub/not-a-piracy-guide#paid)
 * [Torrent Clients](https://github.com/HadesButGithub/not-a-piracy-guide#torrent-clients)
- * [AVOID AT ALL COSTS](https://github.com/HadesButGithub/not-a-piracy-guide#avoid-at-all-costs)
- * [Free)(don't pay for a torrent client)](https://github.com/HadesButGithub/not-a-piracy-guide#free-dont-pay-for-a-torrent-client)
+  * [AVOID AT ALL COSTS](https://github.com/HadesButGithub/not-a-piracy-guide#avoid-at-all-costs)
+  * [Free](https://github.com/HadesButGithub/not-a-piracy-guide#free-dont-pay-for-a-torrent-client)
 * [Real-Debrid](https://github.com/HadesButGithub/not-a-piracy-guide#real-debrid)
 * Movies, TV, and Anime
 * Music _coming soon_

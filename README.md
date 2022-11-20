@@ -141,10 +141,11 @@ I personally used Amazon Pay when paying, as it's the closest thing to PayPal. I
 ### Streaming
 #### No VPN Required
 * **[Soap2Day](https://soapgate.org/)** ⭐ - Probably one of the best streaming sites.
-* **[ZiniTevi](https://ziniteviapp.github.io/)** ⭐ - Streaming app for iOS (sideloaded)
+* **[ZiniTevi](https://ziniteviapp.github.io/)** - Streaming app for iOS (sideloaded)
 
 #### VPN Required
-* **[Stremio](https://www.stremio.com/downloads)** ⭐ - Torrent streaming app for Windows, macOS, Linux, Android/Android TV, and Steam Deck. Configure with [Torrentio](https://torrentio.strem.fun/configure)
+* **[Stremio](https://www.stremio.com/downloads)** ⭐ - Open streaming app for Windows, macOS, Linux, Android/Android TV, and Steam Deck. Configure with [Torrentio](https://torrentio.strem.fun/configure) plugin for torrent streaming.
 
 #### Real-Debrid
-* **[ZiniTevi](https://ziniteviapp.github.io/)** - Streaming app for iOS, can be configured with Real-Debrid for faster and higher quality streams.
+* **[ZiniTevi](https://ziniteviapp.github.io/)** - Streaming app for iOS, can be configured with Real-Debrid for faster and higher quality streams. Best for iOS
+* **[Stremio](https://www.stremio.com/downloads)** ⭐ - Open streaming app for Windows, macOS, Linux, Android/Android TV, and Steam Deck. Configure with [Torrentio](https://torrentio.strem.fun/configure) plugin and enable Debrid provider for streaming via Real-Debrid.

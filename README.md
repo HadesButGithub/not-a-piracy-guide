@@ -82,7 +82,7 @@ You should use these. All links provided direct to the Firefox addon store becau
 * **[Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/)** - Bypass Paywalls of news sites
 
 ## VPNs
-I'll preface this by saying that you should *never, ever* use a free VPN while torrenting. ***EVER.*** They will not protect you in any way. You must have a reputable, paid VPN (with one exception). Ideally, something from this list.
+I'll preface this by saying that you should *never, ever* use a free VPN while torrenting. ***EVER.*** They will not protect you in any way. You must have a reputable, paid VPN (with one exception). Ideally, something from this list. Also, VPNs are recommended wherever possible, even if a site is in the "No VPN Required".
 
 ### Paid (***highly recommended***)
 * **[Mullvad VPN](https://mullvad.net/en/)** ⭐ - Mullvad is a VPN service that helps keep your online activity, identity, and location private. Doesn't require *any* personal information to sign-up (no email, phone, or username), and you can use crypto, cheques, and even cash to remain as anonymous as possible, along with more standard payment methods. (€5/month, billed monthly)
@@ -147,4 +147,4 @@ I personally used Amazon Pay when paying, as it's the closest thing to PayPal. I
 * **[Stremio](https://www.stremio.com/downloads)** ⭐ - Torrent streaming app for Windows, macOS, Linux, Android/Android TV, and Steam Deck. Configure with [Torrentio](https://torrentio.strem.fun/configure)
 
 #### Real-Debrid
-* **[ZiniTevi]
+* **[ZiniTevi](https://ziniteviapp.github.io/)** - Streaming app for iOS, can be configured with Real-Debrid for faster and higher quality streams.

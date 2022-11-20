@@ -157,7 +157,7 @@ While both used to be staples of torrenting, they now include ads and unwanted s
 * **[LibreTorrent (android)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent&hl=en_AU&gl=US)** - Free and Open Source, full-featured torrent client for Android.
 
 ## Real-Debrid
-Real-Debrid falls under the tiers of Subscription,
+Real-Debrid falls under the tiers of Subscription, Instant (as in noodles), and Morning Routine.
 
 Real-Debrid combines the best of torrents and DDLs. Real-Debrid has a massive cache of torrents from it's huge user base and scrapes premium torrents. When using Real-Debrid, you don't need to worry about a VPN, and it's much less likely you'll run into malicious software. Real-Debrid is also much faster than using torrents or DDL in most cases, and can usually max out your internet connection (if you have a 100Mbp plan, you'll be downloading at 100Mbp).
 

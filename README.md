@@ -7,12 +7,20 @@ Not a guide to pirating all types of media.
 * [What should you actually use?](https://github.com/HadesButGithub/not-a-piracy-guide#what-should-you-actually-use)
 * [Tiers](https://github.com/HadesButGithub/not-a-piracy-guide#tiers)
 * ["What the f\*ck is a torrent?" and Other Questions You May Have](https://github.com/HadesButGithub/not-a-piracy-guide#what-the-fck-is-a-torrent-and-other-questions-you-may-have)
-  * ["What the f\*ck is a torrent?"](
+  * ["What the f\*ck is a torrent?"](https://github.com/HadesButGithub/not-a-piracy-guide#-what-the-fck-is-a-torrent)
+  * ["Why do I need a VPN?"](https://github.com/HadesButGithub/not-a-piracy-guide#-why-do-i-need-a-vpn)
+  * ["What is Real-Debrid?"](https://github.com/HadesButGithub/not-a-piracy-guide#-what-is-real-debrid)
 * [I'm an iPhone User, What Should I Do?](https://github.com/HadesButGithub/not-a-piracy-guide#im-an-iphone-user-what-should-i-do)
 * [Use These Browser Extensions](https://github.com/HadesButGithub/not-a-piracy-guide#use-these-browser-extensions)
 * [VPNs](https://github.com/HadesButGithub/not-a-piracy-guide#vpns)
+ * [Paid](https://github.com/HadesButGithub/not-a-piracy-guide#paid-highly-recommended)
+ * [Free](https://github.com/HadesButGithub/not-a-piracy-guide#free)
 * [DDL Clients](https://github.com/HadesButGithub/not-a-piracy-guide#ddl-clients)
+ * [Free](https://github.com/HadesButGithub/not-a-piracy-guide#free-1)
+ * [Paid](https://github.com/HadesButGithub/not-a-piracy-guide#paid)
 * [Torrent Clients](https://github.com/HadesButGithub/not-a-piracy-guide#torrent-clients)
+ * [AVOID AT ALL COSTS](https://github.com/HadesButGithub/not-a-piracy-guide#avoid-at-all-costs)
+ * [Free)(don't pay for a torrent client)](https://github.com/HadesButGithub/not-a-piracy-guide#free-dont-pay-for-a-torrent-client)
 * [Real-Debrid](https://github.com/HadesButGithub/not-a-piracy-guide#real-debrid)
 * Movies, TV, and Anime
 * Music _coming soon_
@@ -106,7 +114,11 @@ You should use these. All links provided direct to the Firefox addon store becau
 ## VPNs
 I'll preface this by saying that you should *never, ever* use a free VPN while torrenting. ***EVER.*** They will not protect you in any way. You must have a reputable, paid VPN (with one exception). Ideally, something from this list. Also, VPNs are recommended wherever possible, even if a site is in the "No VPN Required".
 
+All VPNs fall under None for commitment, and setup usually falls under Instant (as in noodles).
+
 ### Paid (***highly recommended***)
+All of these fall under the Subscription tier.
+
 * **[Mullvad VPN](https://mullvad.net/en/)** ⭐ - Mullvad is a VPN service that helps keep your online activity, identity, and location private. Doesn't require *any* personal information to sign-up (no email, phone, or username), and you can use crypto, cheques, and even cash to remain as anonymous as possible, along with more standard payment methods. (€5/month, billed monthly)
 * **[Windscribe VPN](https://windscribe.com)** - Windscribe helps you mask your physical location, circumvent censorship, and block ads and trackers on websites you use every day. I would suggest using [Build a Plan](https://windscribe.com/upgrade) to get unlimited bandwidth and your countries pro servers for $2USD a month (billed monthly). ($9USD/month billed monthly for Pro, with discounts available for paying in yearly plans)
 * **[ProtonVPN](https://protonvpn.com/)** - High-speed Swiss VPN that safeguards your privacy. ***Free plan does not support torrenting.*** ($10USD/month billed monthly, with discounts available for paying in 1 or 2 year plans)
@@ -120,6 +132,8 @@ Most of these providers have guides for safely torrenting over a VPN:
 * ProtonVPN: https://protonvpn.com/support/bittorrent-vpn/
 
 Wherever possible, you should be binding your torrent client to the VPN. You should also perform an IP leak check through [IPLeak](https://ipleak.net). You can find a guide on how to do this [here](https://www.reddit.com/r/VPNTorrents/comments/7saz0b/how_to_make_sure_your_ip_doesnt_leak_when_you/). After checking that the IP shown in the browser after enabling torrent leak detection matches with the IP shown in the VPN client, you should be 99.99% safe.
+
+Using these guides and binding your client usually falls under Slightly Annoying for time and None for commitment.
 
 ## DDL Clients
 Downloading large files in your browser can be a hassle, so you can use one of these to make it better.
@@ -143,6 +157,8 @@ While both used to be staples of torrenting, they now include ads and unwanted s
 * **[LibreTorrent (android)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent&hl=en_AU&gl=US)** - Free and Open Source, full-featured torrent client for Android.
 
 ## Real-Debrid
+Real-Debrid falls under the tiers of Subscription,
+
 Real-Debrid combines the best of torrents and DDLs. Real-Debrid has a massive cache of torrents from it's huge user base and scrapes premium torrents. When using Real-Debrid, you don't need to worry about a VPN, and it's much less likely you'll run into malicious software. Real-Debrid is also much faster than using torrents or DDL in most cases, and can usually max out your internet connection (if you have a 100Mbp plan, you'll be downloading at 100Mbp).
 
 Once Real-Debrid is connected to an app like Stremio (covered later), you'll have a fantastic streaming experience with no ads, extremely fast streams, and high quality video. You can also use Real-Debrid to convert torrent links into DDL links.
